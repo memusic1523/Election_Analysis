@@ -40,7 +40,7 @@ We wanted to find out the winning candidate in Colorado and the voting turnout p
   - Raymon Anthony Doane received 11,606 votes with a 3.1% of the vote. Charles Casper Stockham received 85,213 votes which is 23.0% of the vote. Diana DeGette received 272,892 votes which is a 73.8% of the vote.
   - We were able to determine that Diana DeGette is the winning candidate in the Colorado Congressional Election. She was able to win a total of 73.8% of the vote.
 
-##Election-Audit Summary
+## Election-Audit Summary
 The script can be use to where the candidate's campaign can be stronger by looking where the least vote counties, so then they can plan the correct course of act to get more votes. You can also modify it to see where they can identify what is the best practice to use and to figure out shortcomes.  
   
   
