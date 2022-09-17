@@ -1,3 +1,9 @@
+{'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}: 6.7% (24,801)
+{'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}: 6.7% (24,801)
+{'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}: 6.7% (24,801)
+-------------------------
+Largest County Turnout: 6.7%
+-------------------------
 
 Election Results
 -------------------------
